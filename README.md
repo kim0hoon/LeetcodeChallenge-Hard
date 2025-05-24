@@ -1,2 +1,1 @@
-#LeetcodeChallenge-Hard
-Leetcode Random Defense Hard
+# LeetcodeChallenge-Hard
